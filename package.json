@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "devDependencies": {
+    "jest": "^17.0.3"
+  },
+  "scripts": {
+    "dev-test": "jest --bail --watchAll",
+    "test": "jest"
+  }
+}
