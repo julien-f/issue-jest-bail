@@ -4,7 +4,6 @@
     "jest": "^18.0.0"
   },
   "scripts": {
-    "dev-test": "jest --bail --watchAll",
-    "test": "jest"
+    "test": "jest --bail"
   }
 }
